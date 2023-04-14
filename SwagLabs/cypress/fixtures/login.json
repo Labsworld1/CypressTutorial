@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://www.saucedemo.com/",
+  "standardUserName": "standard_user", 
+  "lockedUserName": "locked_out_user",
+  "problemUserName": "problem_user", 
+  "performanceUserName": "performance_glitch_user",
+  "password": "secret_sauce", 
+  "email": "hello@cypress.io"
+}
